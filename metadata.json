@@ -1,0 +1,7 @@
+{
+  "name": "Stock em Dia",
+  "description": "Gestão de inventário inteligente adaptada ao mercado angolano, focada em simplicidade e eficiência.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
